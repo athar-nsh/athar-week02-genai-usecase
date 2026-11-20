@@ -3,6 +3,7 @@
 **A Departmental Generative AI–Assisted Knowledge Engineering Use Case — Initial Pilot in CS461 Intelligent Systems**
 
 **Author:** Dr. Noha Abd El-Kader El-Shoafy — Lecturer, Computer Science Department, Faculty of Computers and Artificial Intelligence, Matrouh University
+
 **Course:** Exploring Generative AI: Tools, Use Cases and Future Trends (Mahara-Tech) — Athar Initiative, Week 2
 
 ## Deliverable
